@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31920742/README.md)
+[README (1).md](https://github.com/user-attachments/files/31921044/README.1.md)
 # Hi, I'm Josué 👋
 
 **Data Analyst @ Inter-American Development Bank (IDB)** — I turn messy operational and quality data into decisions people actually use.
@@ -36,6 +36,13 @@
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 - **EF SET English Certificate — C1 Advanced (68/100)**
 - 🔄 *In progress:* Databricks Certified Data Engineer Associate · Microsoft Azure Fundamentals (AZ-900)
+
+---
+
+### 🎓 Education
+
+**B.Sc. in Computer Systems Engineering** — Universidad Fidélitas
+📅 2024 – 2027 (Expected)
 
 ---
 
